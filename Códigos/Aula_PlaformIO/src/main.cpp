@@ -3,7 +3,7 @@
 #include <DallasTemperature.h>
 #include <LiquidCrystal_I2C.h>
 
-const int PINLED = 13;
+const int PINLED = 13; //testando
 const int BUTTON1 = 10;
 const int BUTTON2 = 11;
 const int ONE_WIRE_BUS = 9;
